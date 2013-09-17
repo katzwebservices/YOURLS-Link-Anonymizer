@@ -7,6 +7,14 @@ Instead, use Link Anonymizer to generate a link for you that will take you to an
 
 When you click the ![[anon]](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/key_go.png) link, you will be first redirected through an anonymous referrer service of your choice.
 
+### Screenshots
+
+![Screenshot 1](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-1.png "On the main admin table")  
+Anonymously visit your own links.
+
+![Screenshot 1](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-1.png "On the main admin table")  
+Now you can have anonymous Traffic Sources > Referrers links
+
 ### What service should I use?
 You can use any service&mdash;there are many&mdash;but here are some options:
 
