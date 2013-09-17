@@ -9,10 +9,10 @@ When you click the ![[anon]](https://raw.github.com/katzwebservices/YOURLS-Link-
 
 ### Screenshots
 
-![Screenshot 1](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-1.png "On the main admin table")  
+![Anonymous links on main admin page](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-1.png "On the main admin table")  
 Anonymously visit your own links.
 
-![Screenshot 1](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-1.png "On the main admin table")  
+![Traffic Sources > Referrers links](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-2.png "Traffic Sources > Referrers links")  
 Now you can have anonymous Traffic Sources > Referrers links
 
 ### What service should I use?
@@ -26,6 +26,7 @@ You can use any service&mdash;there are many&mdash;but here are some options:
 * [http://anonym2.com](http://anonym2.com)
 * [http://knil.ws](http://knil.ws)
 
+----
 
 #### Thank yous
 * The key icon is from the [Silk icon set](http://www.famfamfam.com/lab/icons/silk/) by FamFamFam. 
