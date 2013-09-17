@@ -5,7 +5,7 @@ Sometimes you want to click a link, but you don't want to have your YOURLS insta
 
 Instead, use Link Anonymizer to generate a link for you that will take you to an anonymizer service.
 
-When you click the ![[anon]](http://www.famfamfam.com/lab/icons/silk/icons/key_go.png) link, you will be first redirected through an anonymous referrer service of your choice.
+When you click the ![[anon]](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/key_go.png) link, you will be first redirected through an anonymous referrer service of your choice.
 
 ### What service should I use?
 You can use any service&mdash;there are many&mdash;but here are some options:
