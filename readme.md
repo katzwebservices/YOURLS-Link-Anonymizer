@@ -10,10 +10,10 @@ When you click the ![[anon]](https://raw.github.com/katzwebservices/YOURLS-Link-
 ### Screenshots
 
 ![Anonymous links on main admin page](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-1.png "On the main admin table")  
-Anonymously visit your own links.
+*Anonymously visit your own links.*
 
 ![Traffic Sources > Referrers links](https://raw.github.com/katzwebservices/YOURLS-Link-Anonymizer/master/screenshot-2.png "Traffic Sources > Referrers links")  
-Now you can have anonymous Traffic Sources > Referrers links
+*Now you can have anonymous Traffic Sources > Referrers links*
 
 ### What service should I use?
 You can use any service&mdash;there are many&mdash;but here are some options:
